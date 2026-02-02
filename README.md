@@ -2,15 +2,15 @@
 Study of Tuple in Python
 
 ## Theory: 
-In this experiment we learned how to use tuple in python. 
-Tuples are immutable, i.e. they cannot be edited whereas lists can be. 
-Tuple use () brackets while lists use [] brackets. 
-print(tpl[1]) displays the 2nd element of the tuple. 
-print(tpl[1:4]) displays the 2nd, 3rd and 4th element of the tuple.
-tpl7+=tpl8 adds element of tpl8 to tpl7 but changes the memory location of the tuple tpl7.
-sorted(tuple) sorts the tuple in ascending order, but for lists we use list.sort().
-tpl=(10,)*5 , printing this will print the value 10 five times.
-id(tpl) , printing this will display the memory location of the tuple.
+In this experiment we learned how to use tuple in python.  
+Tuples are immutable, i.e. they cannot be edited whereas lists can be.  
+Tuple use () brackets while lists use [] brackets.  
+print(tpl[1]) displays the 2nd element of the tuple.   
+print(tpl[1:4]) displays the 2nd, 3rd and 4th element of the tuple.  
+tpl7+=tpl8 adds element of tpl8 to tpl7 but changes the memory location of the tuple tpl7.  
+sorted(tuple) sorts the tuple in ascending order, but for lists we use list.sort().  
+tpl=(10,)*5 , printing this will print the value 10 five times.   
+id(tpl) , printing this will display the memory location of the tuple.   
 
 ## Algorithm: 
     a) Analyzing Student Marks
