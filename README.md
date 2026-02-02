@@ -1,6 +1,6 @@
-aim: Study of Tuple in Python
+## Aim: Study of Tuple in Python
 
-theory: In this experiment we learned how to use tuple in python. 
+## Theory: In this experiment we learned how to use tuple in python. 
 Tuples are immutable, i.e. they cannot be edited whereas lists can be. 
 Tuple use () brackets while lists use [] brackets. 
 print(tpl[1]) displays the 2nd element of the tuple. 
@@ -10,7 +10,7 @@ sorted(tuple) sorts the tuple in ascending order, but for lists we use list.sort
 tpl=(10,)*5 , printing this will print the value 10 five times.
 id(tpl) , printing this will display the memory location of the tuple.
 
-algorithm: 
+## Algorithm: 
 a) Analyzing Student Marks
 Initialize Data: Create a tuple containing the numerical marks of the students.[marks()]
 Find Extremes: Identify the highest value using max() and the lowest value using min().
@@ -32,4 +32,4 @@ Count Occurrences: Use the attendance.count() method to find the total number of
 Check Absence: Use an if statement to check if the count of "A" is greater than or equal to 1.(if attendance.count("a")>=1:)
 Display Results: Print the counts and a notification if the employee was absent at least once.
 
-conclusion: Hence tuples were implemented in python and operations were done on them.
+## Conclusion: Hence tuples were implemented in python and operations were done on them.
